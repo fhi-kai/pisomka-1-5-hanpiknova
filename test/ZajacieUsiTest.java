@@ -9,9 +9,7 @@ public class ZajacieUsiTest {
 
 	@Before
 	public void setup() {
-		//TU vytvorte instanciu vasej triedy
-	}
-
+    }
 
 	@Test
 	public void testZajacieUsi() {

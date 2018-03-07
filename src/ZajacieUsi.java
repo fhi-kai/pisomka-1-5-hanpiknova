@@ -1,7 +1,7 @@
 /**
  * Implementujte toto rozhranie
  */
-public interface ZajacieUsi {
+public interface ZajacieUsi{
 
 	/**
 	 * Metoda vrati pocet usi zajacov
